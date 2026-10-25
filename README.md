@@ -1,14 +1,14 @@
 <p align="center"><img src="docs/banner.png" alt="GRC Starter Templates" width="900"></p>
 
 <p align="center">
-  <a href="https://abdullahzarshaid.github.io/abzsecure-grc-templates/"><img src="https://img.shields.io/badge/Browse%20online-pick%20a%20tracker-0f766e?style=for-the-badge" alt="Browse online"></a>
+  <a href="https://abdullahzarshaid.github.io/grc-excel-templates/"><img src="https://img.shields.io/badge/Browse%20online-pick%20a%20tracker-0f766e?style=for-the-badge" alt="Browse online"></a>
   &nbsp;
-  <a href="https://github.com/abdullahzarshaid/abzsecure-grc-templates/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-all%20six%20(.zip)-14314a?style=for-the-badge" alt="Download all"></a>
+  <a href="https://github.com/abdullahzarshaid/grc-excel-templates/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-all%20six%20(.zip)-14314a?style=for-the-badge" alt="Download all"></a>
   &nbsp;
   <a href="https://abdullahzarshaid.com/"><img src="https://img.shields.io/badge/Author-abdullahzarshaid.com-3f8f5b?style=for-the-badge" alt="Author site"></a>
 </p>
 
-[![Template integrity](https://github.com/abdullahzarshaid/abzsecure-grc-templates/actions/workflows/templates.yml/badge.svg)](https://github.com/abdullahzarshaid/abzsecure-grc-templates/actions/workflows/templates.yml)
+[![Template integrity](https://github.com/abdullahzarshaid/grc-excel-templates/actions/workflows/templates.yml/badge.svg)](https://github.com/abdullahzarshaid/grc-excel-templates/actions/workflows/templates.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Templates](https://img.shields.io/badge/templates-6-blue.svg)
 ![Rows](https://img.shields.io/badge/prepared%20rows-100%20each-blue.svg)
@@ -29,7 +29,7 @@
 - **[Policy register](templates/policy-register.xlsx)**: Policies with version, approver, approval and next review dates. Columns: Policy ID, Policy title, Owner, Version, Document reference, Approval date, Next review, Status, Approver, Notes.
 - **[Assessment scope](templates/assessment-scope.xlsx)**: Applicable requirements, decisions, evidence references and rationale. Columns: Item ID, Requirement / question, Source / version, Applicability, Owner, Decision, Evidence reference, Reviewer, Review date, Rationale.
 
-Row 1 in each preview is a fictional example for orientation. The downloadable files are blank. The six files, `checksums.json` and a zip of all six are also attached to the [latest release](https://github.com/abdullahzarshaid/abzsecure-grc-templates/releases/latest), so a fixed version can be linked from a policy or a procedure.
+Row 1 in each preview is a fictional example for orientation. The downloadable files are blank. The six files, `checksums.json` and a zip of all six are also attached to the [latest release](https://github.com/abdullahzarshaid/grc-excel-templates/releases/latest), so a fixed version can be linked from a policy or a procedure.
 
 ## How the six connect
 
