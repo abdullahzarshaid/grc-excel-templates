@@ -60,7 +60,7 @@ CI checks the six expected XLSX files, their recorded SHA-256 hashes, ZIP/XML st
 
 The six original trackers are [MIT licensed](LICENSE). You can use, modify and redistribute them, including commercially, while retaining the notice. Brand and logo rights and third-party standards are not included. See the [usage notes](templates/TERMS.txt).
 
-Questions about a template: open an issue here or email abdullahbinzarshaid@gmail.com. A scoped, human-reviewed gap assessment is offered through [ABZSECURE](https://abzsecure.com/); scope and fees are agreed before work begins.
+Questions about a template: open an issue here or email abdullahbinzarshaid@gmail.com.
 
 ## Contribute safely
 
